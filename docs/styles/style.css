@@ -80,6 +80,13 @@ body {
   color: #E8372D;
   white-space: nowrap;
 }
+@media (max-width: 480px) {
+  .main-text {
+    font-size: 70px;
+    bottom: 20px;
+    left: -21px;
+  }
+}
 
 
 @keyframes wave {
