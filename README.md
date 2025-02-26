@@ -1,5 +1,5 @@
 # flag-fluttering
-![flag-fluttering の宣伝画面](readme-top.gif "flag-fluttering の宣伝画面")
+![flag-fluttering の画面](readme-top.gif "flag-fluttering の画面")
 
 
 ## WebPage
