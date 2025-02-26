@@ -71,16 +71,9 @@ body {
   z-index: 10;
 }
 
-.ant-body {
+.main-text {
   position: absolute;
-  bottom: 50px;
-  font-size: 40px;
-  white-space: nowrap;
-}
-
-.ant-text {
-  position: absolute;
-  bottom: -100px;
+  bottom: 20px;
   left: -23px;
   font-size: 80px;
   color: #E8372D;
